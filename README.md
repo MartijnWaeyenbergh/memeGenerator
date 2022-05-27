@@ -10,3 +10,7 @@ Example images are given in the folders:
 /memes/ => output directory
 
 the classic meme font is 'impact.ttf', but any ttf font can be used
+
+![Alt text](memes/1653644852.png?raw=true "meme example 1")
+
+![Alt text](memes/1653644941.png?raw=true "meme example 2")
